@@ -1,0 +1,8 @@
+*.bin
+*.elf
+*.hex
+*.map
+*.tmp
+*.ps1
+Thumbs.db
+Desktop.ini
