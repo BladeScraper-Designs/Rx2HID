@@ -1,17 +1,17 @@
-# Rx2HID Firmware Releases
+# Rx2HID
 
-Official firmware releases for the KC3D Rx2HID receiver-to-USB HID adapter.
+Official software downloads and firmware releases for the KC3D Rx2HID receiver-to-USB HID adapter.
 
-This repository contains compiled firmware update files only. Rx2HID firmware source code is proprietary and is not included.
+This repository provides the **Rx2HID Utility** desktop application and official firmware release files for Rx2HID devices.
 
 ## Updating
 
-Firmware updates should normally be installed through the official Rx2HID Utility application.
+Firmware updates should normally be installed using the official **Rx2HID Utility**.
 
-Manual firmware files are available under GitHub Releases.
+Firmware binaries are also available under [**GitHub Releases**](https://github.com/BladeScraper-Designs/Rx2HID/releases) for manual installation or recovery purposes.
 
 ## Support
 
-For documentation and support, visit:
+For documentation, product information, and support, visit:
 
-https://kc3dprint.com
+[Rx2HID Product Page](https://kc3dprint.com/products/rx2hid)
