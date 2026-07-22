@@ -1,4 +1,4 @@
-Copyright © 2026 KC3DPrint. All rights reserved.
+Copyright © 2026 KC3D LLC. All rights reserved.
 
 The firmware files distributed through this repository are proprietary
 software intended solely for use with authorized KC3D Rx2HID hardware.
