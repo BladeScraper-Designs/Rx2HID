@@ -2,23 +2,23 @@
   "schema_version": 2,
   "product": "Rx2HID",
   "default_channel": "stable",
-  "generated_utc": "2026-07-22T22:05:44Z",
+  "generated_utc": "2026-07-23T05:14:25Z",
   "latest_version": "1.0.0",
-  "published_at_utc": "2026-07-22T22:05:44Z",
+  "published_at_utc": "2026-07-23T05:14:25Z",
   "minimum_app_version": "0.2.0",
   "release_url": "https://github.com/BladeScraper-Designs/Rx2HID/releases/tag/v1.0.0",
   "firmware_url": "https://github.com/BladeScraper-Designs/Rx2HID/releases/download/v1.0.0/Rx2HID-v1.0.0.bin",
-  "sha256": "6a1df92f70308b3e85b0f3facd14399354cebbea6db77cec0d0c8508a7f7ed3c",
-  "file_size": 50560,
+  "sha256": "865d343c39c92733068d8fd3db80d873029d186e02cf804b32bc53f5c5831513",
+  "file_size": 44944,
   "channels": {
     "stable": {
       "version": "1.0.0",
-      "published_at_utc": "2026-07-22T22:05:44Z",
+      "published_at_utc": "2026-07-23T05:14:25Z",
       "minimum_app_version": "0.2.0",
       "release_url": "https://github.com/BladeScraper-Designs/Rx2HID/releases/tag/v1.0.0",
       "firmware_url": "https://github.com/BladeScraper-Designs/Rx2HID/releases/download/v1.0.0/Rx2HID-v1.0.0.bin",
-      "sha256": "6a1df92f70308b3e85b0f3facd14399354cebbea6db77cec0d0c8508a7f7ed3c",
-      "file_size": 50560
+      "sha256": "865d343c39c92733068d8fd3db80d873029d186e02cf804b32bc53f5c5831513",
+      "file_size": 44944
     },
     "testing": {
       "version": "",
